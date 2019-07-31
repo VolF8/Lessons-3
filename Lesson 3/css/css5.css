@@ -1,0 +1,32 @@
+body,html {
+	width: 100%;
+	height: 100%;
+}
+header:hover {
+	position: fixed;
+	width: 100%;
+	height: 200px;
+	background: orange;
+	background-color: rgba(255,153,0,0.6);
+}
+#wrapper {
+	display: flex;
+	
+}
+.picture1 {
+	margin-top:center auto;
+	height: 150px;
+	width: 50%;
+}
+.picture2 {
+	margin-top:center auto;
+	height: 150px;
+	width: 50%;
+}
+#center {
+	height: 500px;
+	width: 100%;
+	background: green;
+	margin-left: 15%;
+	margin-right: 15%;
+}

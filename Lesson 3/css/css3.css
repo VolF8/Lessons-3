@@ -1,0 +1,24 @@
+body {
+	position: fixed;
+}
+#kvadrat1 {
+	height: 250px;
+	width: 250px;
+	background: red;
+	margin-top: 100px;
+	margin-left:100px;
+}
+#kvadrat2 {
+	height: 250px;
+	width: 250px;
+	background: blue;
+	margin-left:350px;
+}
+#kvadrat3 {
+	height: 250px;
+	width: 250px;
+	background: green;
+	position: absolute;
+	margin-top: -400px;
+	margin-left:225px;
+}
