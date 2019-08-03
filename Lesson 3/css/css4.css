@@ -18,14 +18,14 @@ header {
 	background-color: rgba(145,145,145,0.5);
 }
 #container {
-	width: 90%;
+	width: 85%;
 	height: 400px;
 	background: yellow;
 	margin-left: 10%;
 	margin-right: 10%;
 	font-color: #fff;
     text-align: center;
-	text-transform: uppercase;
+	text-transform: uppercase;	
 }
 footer {
 	width: 90%;
